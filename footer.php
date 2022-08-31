@@ -145,6 +145,18 @@
 <script src="js/custom.js"></script>
 
 
+
+
+<!-- AOS Script for scrolling animation -->
+<!-- <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration:1500,
+        offset:300
+    });
+</script> -->
+
+
 </body>
 
 </html>

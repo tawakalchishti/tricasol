@@ -631,6 +631,12 @@ display: block !important;width: auto !important;height: auto;
         .dedicated-banner-img {
             margin-top: 1.5rem;
         }
+        /* Tawakal start */
+        .ecom-banner-image {
+            width:55%;
+            margin-top: 1rem;
+        }
+        
 }
 @media (min-width: 320px) and (max-width: 479px) {
     .shared-hosting-text {
@@ -669,6 +675,22 @@ display: block !important;width: auto !important;height: auto;
     .vps-heading {
         margin-bottom: 16px;
     }
+    /* Tawakal start */
+
+    .ecom-heading {
+        margin-bottom: 1rem !important;
+        font-size: 18px !important;
+     
+    }
+    .ecom-p {
+        font-size: 12px;
+    }
+    .ecom-banner-image {
+        margin-top: 1rem;
+        width: 80% !important;
+
+    }
+
 }
 /* MY MEDIA QUERY END  */
 
@@ -839,10 +861,6 @@ display: block !important;width: auto !important;height: auto;
 
 /* TAWAKAL media Query */
 
-@media (min-width: 320px) and (max-width: 479px) {
-    
-
-}
 /* TAWAKAL media Query End*/
 
 
@@ -1031,6 +1049,23 @@ button,input,optgroup,select,textarea{
     line-height: 1;
     font-size: 25px;
     font-weight: 600;
+}
+
+/* E-comerece devlopment */
+.ecom-section {
+    padding: 70px 0 0px !important;
+}
+
+.ecom-p {
+    color: white;
+    text-align: justify;
+    word-wrap: break-word;
+    
+
+}
+.ecom-heading {
+    margin-bottom: 15px;
+    font-size: 28px !important;
 }
 
 /* TAWAKAL css ends */

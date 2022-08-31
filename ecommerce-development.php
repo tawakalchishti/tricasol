@@ -7,13 +7,30 @@
   include('header.php'); 
 
 ?>
-<section class="inner-page-banner overflow-hidden position-relative m-auto">
+<section class="inner-page-banner ecom-section overflow-hidden position-relative m-auto">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-12">
-                <div class="visual-content">
-                    <h2 class="text-uppercase">eCommerce Development</h2>
-                    <!-- <span class="d-block text-white mb-3">Web Hosting Plans</span> -->
+            <!-- <div class="col-md-12">
+                <div class="visual-content ">
+                    <h2 class="text-uppercase">eCommerce Development </h2>
+                    <span class="d-block text-white mb-3">Web Hosting Plans</span>
+                </div>
+                <div class="col-md-6 col-lg-6">
+                    <img class="img-fluid mx-auto ebanner-image" src="images/development/e-com-dev-banner.svg">
+                </div> -->
+                <div class="col-md-6 col-lg-6">
+                    <div class="">
+                        <h3 class="text-uppercase ecom-heading" >eCommerce Development </h3>
+                        <p class="text-white ecom-p" >Our tech teams give you a complete set of solution Packed in the form of your ecommerce website.
+                            From product personalization to continued purchases,Our shopping systems will back you up by running efficiently.</p>
+                        <a href="">
+                            <button class="btn mt-4 getstarted-btn ecom-banner-btn">Get Started</button>
+                        </a>
+                        <!-- <span class="d-block text-white mb-3">Web Hosting Plans</span> -->
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-6">
+                    <img class="img-fluid mx-auto ecom-banner-image"  width="75%" src="images/development/ecom-dev-banner.svg">
                 </div>
                 <div class="btn-scroll-down">
                     <a href="javascript:void(0);" data-bind="scrollTo" data-target="#btn-scroll-down">
@@ -179,7 +196,7 @@
                         control feature. Also providing horizon of wordpress themes to create store front</p>
                 </div>
                 <div class="col-md-4">
-                    <img class="img-center ts-bg-img" src="images/development/woocommerce-development.png">
+                    <img class="img-center ts-bg-img " src="images/development/ecomerce.gif">
                 </div>
             </div>
             <div class="row vertical-center pb-25">
