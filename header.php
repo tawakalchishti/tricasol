@@ -38,7 +38,10 @@
     <link rel="stylesheet" href="css/main.css">
 
     <!-- Qasim CSS -->
-    <link rel="stylesheet" href="css/qasim.css">
+    <!-- <link rel="stylesheet" href="css/qasim.css"> -->
+
+    <!-- Qasim2.css -->
+    <link rel="stylesheet" href="css/qasim2.css">
 
     <!-- AOS library for scrolling effects   -->
     <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->

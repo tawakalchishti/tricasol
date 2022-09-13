@@ -636,8 +636,23 @@ display: block !important;width: auto !important;height: auto;
             width:55%;
             margin-top: 1rem;
         }
-        
+        .ecom-p {
+            font-size: 14px;
+        }
+        .stacks-div .stacks-img {
+            width:30% !important;
+            margin: 0 auto;
+        }
+
+        .stacks-div h4{
+             text-align: center;
+             
+        }
+        .ecom-heading {
+            margin-top: 1rem;
+        }
 }
+
 @media (min-width: 320px) and (max-width: 479px) {
     .shared-hosting-text {
         text-align: justify !important;
@@ -678,18 +693,29 @@ display: block !important;width: auto !important;height: auto;
     /* Tawakal start */
 
     .ecom-heading {
-        margin-bottom: 1rem !important;
+        margin-top: 1rem !important;
         font-size: 18px !important;
      
     }
     .ecom-p {
-        font-size: 12px;
+        font-size: 14px !important;
     }
     .ecom-banner-image {
         margin-top: 1rem;
         width: 80% !important;
 
     }
+
+    .stacks-div .stacks-img {
+        width:50% !important;
+        margin: 0 auto;
+    }
+
+    .stacks-div h4{
+         text-align: center;
+         
+    }
+
 
     .woocom-p {
         font-size: 12px;
@@ -1062,17 +1088,32 @@ button,input,optgroup,select,textarea{
 }
 
 .ecom-p {
-    color: #16b916;
     text-align: justify;
-    
-    
-
+    font-size: 16px;
 }
-.ecom-heading {
+
+.ecom-head .ecom-heading {
     margin-bottom: 15px;
     font-size: 28px;
 }
+.ecom-heading {
+    margin-bottom: 15px;
+    font-size: 32px;
+    
+}
 
+/* .opencart{
+    margin-bottom: 30px;
+} */
 
+.stack-heading {
+    margin-top: 1rem;
+    font-size: 32px;
+}
+
+.stacks-div h4 {
+    color:black;
+    
+}
 
 /* TAWAKAL css ends */
